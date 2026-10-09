@@ -1,0 +1,4 @@
+fuzzycar.egg-info/PKG-INFO
+fuzzycar.egg-info/SOURCES.txt
+fuzzycar.egg-info/dependency_links.txt
+fuzzycar.egg-info/top_level.txt
